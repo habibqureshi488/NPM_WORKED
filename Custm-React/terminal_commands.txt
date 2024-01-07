@@ -6,6 +6,11 @@ npm install -D eslint@8.24.0 eslint-config-prettier@8.5.0
 npm install -D vite@3.1.4 @vitejs/plugin-react@2.1.0
 npm run format
 npm install react@18.2.0 react-dom@18.2.0
+npm install --save-dev @babel/preset-react
+
+
+
+
 
 Link:
 {
