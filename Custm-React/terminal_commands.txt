@@ -3,3 +3,4 @@ npm init
 npm --v
 node -v
 npm install -D eslint@8.24.0 eslint-config-prettier@8.5.0
+npm install -D vite@3.1.4 @vitejs/plugin-react@2.1.0
